@@ -1,0 +1,9 @@
+
+//Play a itse me mario sound on connect
+//give the mario different color suits
+//add a mario like background
+//paint rotating coins at random locations
+//fix the cors errors on server start? (if needed)
+//have the coins be edible with the mario coin sound playing
+//work on a score system and add the rest of the steps.
+//make sure coins do not spawn on users
